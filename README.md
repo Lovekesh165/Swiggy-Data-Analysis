@@ -127,16 +127,16 @@ Through this project, I practiced:
 ## 📊 Project Visualizations
 
 ### Monthly Sales
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](newplot.png)
 
 ### Revenue by Food Category
-![Revenue by Food Category](images/revenue_by_food_category.png)
+![Revenue by Food Category](newplot2.png)
 
 ### Revenue by State
-![Revenue by State](images/revenue_by_state.png)
+![Revenue by State](newplot3.png)
 
 ### Sales Analysis
-![Sales Analysis](images/sales_analysis.png)
+![Sales Analysis](newplot4.png)
 
 
 ## 🚀 Conclusion
