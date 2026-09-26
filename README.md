@@ -124,6 +124,19 @@ Through this project, I practiced:
 * Data Visualization
 * Business-oriented Data Analysis
 
+## 📊 Project Visualizations
+
+### Monthly Sales
+![Monthly Sales](images/monthly_sales.png)
+
+### Revenue by Food Category
+![Revenue by Food Category](images/revenue_by_food_category.png)
+
+### Revenue by State
+![Revenue by State](images/revenue_by_state.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales_analysis.png)
 
 
 ## 🚀 Conclusion
