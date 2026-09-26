@@ -126,17 +126,17 @@ Through this project, I practiced:
 
 ## 📊 Project Visualizations
 
-### Monthly Sales
-![Monthly Sales](images/newplot.png)
-
-### Revenue by Food Category
-![Revenue by Food Category](images/newplot2)
-
 ### Revenue by State
-![Revenue by State](images/newplot3.png)
+![Revenue by State](images/newplot.png)
+
+### Top 5 Cities by Sales
+![Top 5 Cities By Sales](images/newplot2)
 
 ### Sales Analysis
-![Sales Analysis](images/newplot4.png)
+![Sales Analysis](images/newplot3.png)
+
+### Sales By Food Category(Veg or Non-Veg)
+![Sales By Food Category(Veg or Non-Veg)](images/newplot4.png)
 
 
 ## 🚀 Conclusion
